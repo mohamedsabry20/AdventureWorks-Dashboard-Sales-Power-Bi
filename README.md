@@ -3,7 +3,10 @@
 #### Collaborating with (ITI), we embarked on designing and developing comprehensive Inventory and Operation reports using Power BI.
 ## Key Insights Revealed:
 
-#### 1-Overall Company Performance #### 2-Sales Team Performance #### 3-Inventory Product Analysis ####4-Clear and Organized Visuals
+#### 1-Overall Company Performance 
+#### 2-Sales Team Performance 
+#### 3-Inventory Product Analysis 
+####4-Clear and Organized Visuals
 ## Business Questions:
 
 ### Orders by Continent
